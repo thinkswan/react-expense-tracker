@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 
-export const AddTransaction = props => {
+export const AddTransaction = () => {
   const [text, setText] = useState("")
   const [amount, setAmount] = useState(0)
 
