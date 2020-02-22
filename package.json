@@ -1,5 +1,6 @@
 {
   "name": "react-expense-tracker",
+  "description": "A React app for tracking expenses and seeing your account balance.",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
